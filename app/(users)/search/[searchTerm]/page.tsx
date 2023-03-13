@@ -1,5 +1,3 @@
-import React from "react";
-
 type PageProps = {
   params: {
     searchTerm: string;
